@@ -16,3 +16,7 @@ Exemplo de usuários que podemos logar:
   Usuário Customer: email: fulana@deliveryapp.com; senha: fulana@123
   Usuário Seller: email: zebirita@email.com; senha: $#zebirita#$
 
+Instruções para execução do projeto:
+  1- Faça o clone do projeto para algum diretório do seu computador
+  2- Abra o terminal no diretorio "back end" do projeto e execute os comandos "npm install" e "npm start" e
+  3- Abra o terminal no diretorio "front-end" do projeto e execute os comandos "npm install" e "npm start" e abrira o navegador
