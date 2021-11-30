@@ -19,4 +19,4 @@ Exemplo de usuários que podemos logar: <br>
 Instruções para execução do projeto:
   1- Faça o clone do projeto para algum diretório do seu computador <br>
   2- Abra o terminal no diretorio "back end" do projeto e execute os comandos "npm install" e "npm start" e <br>
-  3- Abra o terminal no diretorio "front-end" do projeto e execute os comandos "npm install" e "npm start" e abrira o navegador
+  3- Abra o terminal no diretorio "front-end" do projeto e execute os comandos "npm install" e "npm start"
